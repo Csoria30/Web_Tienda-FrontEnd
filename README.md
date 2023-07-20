@@ -18,8 +18,6 @@ Perfil: https://github.com/codigoconjuan.
 
 <br /><br /><br />
 
-## Vista previa
+[<img align="left" src="https://drive.google.com/uc?export=view&id=1g07Pwa2DeBafGdB2RFMbmBmJ_zquGQvz" />][proyectoImagenes]
 
-![Vista previa](https://drive.google.com/uc?export=view&id=1mrWvdv_6i2HAle5lKDm04rDMYTNm_G3A)
-![Vista previa](https://drive.google.com/uc?export=view&id=183qhGoJzZm14F6ShhZApoL_Lf2dF_UPv)
-![Vista previa](https://drive.google.com/uc?export=view&id=1b6i6KuGgs16rIz-z-_PBxORw3KoWtpyY)
+[proyectoImagenes]: https://drive.google.com/drive/folders/1e3SQKeCqUK4bS1GNU8M9AxRnlaIeRlKp?usp=sharing
